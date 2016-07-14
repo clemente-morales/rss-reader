@@ -2,7 +2,7 @@
     <color name="photo_placeholder">#ccc</color>
 
     <color name="primary">#FF5722</color>
-    <color name="primary_dark">#E64A19</color>
+    <color name="primary_dark">#D84315</color>
     <color name="accent">#FF3D00</color>
     <color name="primary_text">#BDBDBD</color>
 </resources>
