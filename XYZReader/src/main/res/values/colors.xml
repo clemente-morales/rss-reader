@@ -1,8 +1,8 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="primary">#3f51b5</color>
-    <color name="primary_dark">#303F9F</color>
-    <color name="accent">#00bcd4</color>
-    <color name="primary_text">#ffe0e0e0</color>
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="accent">#FF3D00</color>
+    <color name="primary_text">#BDBDBD</color>
 </resources>
